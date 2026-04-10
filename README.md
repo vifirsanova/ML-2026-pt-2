@@ -6,6 +6,7 @@
 
 #### Проектная деятельность
 
+* [ДЗ 4.1. Проектные](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/tutorials/1_git_basics/git_hw.md)
 
 #### Advanced 
 
