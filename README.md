@@ -10,7 +10,8 @@
 
 #### Beginners
 
-* [ДЗ 4.1. Clustering](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/beginners/1_clustering/clustering_hw.ipynb): **4 мая, 23.59**
+* [ДЗ 4.1. Clustering](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/beginners/1_clustering/clustering_hw.ipynb): 4 мая, 23.59
+* [ДЗ 4.2. Trees](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/beginners/1_trees/trees_hw.ipynb): **11 мая, 23.59**
 
 #### Advanced 
 
