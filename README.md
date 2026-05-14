@@ -17,3 +17,4 @@
 
 * [ДЗ 4.1. RecSys](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/advanced/1_recommender_systems/recsys_hw.ipynb): 18 апреля, 23.59
 * [ДЗ 4.2. Search](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/advanced/2_search_engines/search_project_HW.ipynb): 30 апреля, 23.59
+* [ДЗ 4.3 Traditional ML in MAS](https://github.com/vifirsanova/ML-2026-pt-2/tree/main/advanced/3_traditional_ml_in_mas): **29 мая, 23.59**
