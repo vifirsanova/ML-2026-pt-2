@@ -7,7 +7,7 @@
 #### Проектная деятельность
 
 * [ДЗ 4.1. Проектные](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/tutorials/1_git_basics/git_hw.md): 16 апреля, 23.59
-* [Финальный проект](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/final_project_req.md): 26 июня, 18.00
+* [Финальный проект](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/final_project_req.md): **26 июня, 18.00**
   
 #### Beginners
 
