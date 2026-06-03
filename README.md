@@ -7,14 +7,17 @@
 #### Проектная деятельность
 
 * [ДЗ 4.1. Проектные](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/tutorials/1_git_basics/git_hw.md): 16 апреля, 23.59
-
+* [Финальный проект](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/final_project_req.md): 26 июня, 18.00
+  
 #### Beginners
 
 * [ДЗ 4.1. Clustering](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/beginners/1_clustering/clustering_hw.ipynb): 4 мая, 23.59
-* [ДЗ 4.2. Trees](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/beginners/2_trees/trees_hw.ipynb): **17 мая, 23.59**
+* [ДЗ 4.2. Trees](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/beginners/2_trees/trees_hw.ipynb): 17 мая, 23.59
+* [ДЗ 4.3. ConvNet](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/beginners/3_cnn/hw.md): **15 июня, 23.59**
 
 #### Advanced 
 
 * [ДЗ 4.1. RecSys](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/advanced/1_recommender_systems/recsys_hw.ipynb): 18 апреля, 23.59
 * [ДЗ 4.2. Search](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/advanced/2_search_engines/search_project_HW.ipynb): 30 апреля, 23.59
-* [ДЗ 4.3 Traditional ML in MAS](https://github.com/vifirsanova/ML-2026-pt-2/tree/main/advanced/3_traditional_ml_in_mas): **29 мая, 23.59**
+* [ДЗ 4.3 Traditional ML in MAS](https://github.com/vifirsanova/ML-2026-pt-2/tree/main/advanced/3_traditional_ml_in_mas): 29 мая, 23.59
+* [ДЗ 4.4 Explainable AI](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/beginners/3_cnn/hw.md): **15 июня, 23.59**, то же, что и Beginners + применить любой XAI метод к результатам 
