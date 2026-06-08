@@ -14,6 +14,7 @@
 * [ДЗ 4.1. Clustering](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/beginners/1_clustering/clustering_hw.ipynb): 4 мая, 23.59
 * [ДЗ 4.2. Trees](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/beginners/2_trees/trees_hw.ipynb): 17 мая, 23.59
 * [ДЗ 4.3. ConvNet](https://github.com/vifirsanova/ML-2026-pt-2/blob/main/beginners/3_cnn/hw.md): **15 июня, 23.59**
+* [ДЗ 4.4. RNN](https://forms.gle/qjd61PmncmQCkEnd8): **15 июня, 23.59**
 
 #### Advanced 
 
